@@ -33,4 +33,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akhileshverma92&show_icons=true&locale=en" alt="akhileshverma92" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akhileshverma92&" alt="akhileshverma92" /></p>
-![](https://komarev.com/ghpvc/?username=your-github-akhileshverma92&abbreviated=true)
+<img src="https://komarev.com/ghpvc/?username=your-github-akhileshverma92&abbreviated=true" />
