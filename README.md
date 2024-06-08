@@ -1,5 +1,5 @@
 <img src="https://github.com/akhileshverma92/akhileshverma92/blob/0ead7b89f566d52ad38ec7bbedc185f03d4b2cb7/your_cool_intro%20(1).gif" alt="akhileshverma92" /> 
-<h1 align="center">Hi 👋, I'm AKHILESH VERMA</h1>
+
 <h3 align="center">A passionate web developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akhileshverma92&label=Profile%20views&color=0e75b6&style=flat" alt="akhileshverma92" /> </p>
