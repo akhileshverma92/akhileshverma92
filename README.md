@@ -37,3 +37,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akhileshverma92&" alt="akhileshverma92" /></p>
 
 [![akhileshverma92's GitHub | Languages](https://stats.quine.sh/akhileshverma92/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=akhileshverma92)
+
+
+<a href="https://app.daily.dev/akkyyyy_92"><img src="https://api.daily.dev/devcards/v2/9Qz0gZSRG6EV9ssi9QuK3.png?type=default&r=mgj" width="356" alt="Akhilesh verma's Dev Card"/></a>
