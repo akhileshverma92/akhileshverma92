@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/akhileshverma_0" target="blank"><img src="https://img.shields.io/twitter/follow/akhileshverma_0?logo=twitter&style=for-the-badge" alt="akhileshverma_0" /></a> </p>
 
-- 🔭 I’m currently working on **REACT PROJECT**
+- 🔭 I’m currently working on **NODEJS PROJECT**
 
 - 🌱 I’m currently learning **BACKEND DEVELOPMENT**
 
