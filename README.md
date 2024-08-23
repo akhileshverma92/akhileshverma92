@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **REACT PROJECT**
 
-- 🌱 I’m currently learning **REACTJS and NEXTJS**
+- 🌱 I’m currently learning **BACKEND DEVELOPMENT**
 
 - 👨‍💻 All of my projects are available at [https://akhileshverma92.github.io/akhileshverma/](https://akhileshverma92.github.io/akhileshverma/)
 
