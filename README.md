@@ -1,3 +1,7 @@
+
+<a href="https://app.daily.dev/akkyyyy_92">
+    <img src="https://user-images.githubusercontent.com/89134865/201539167-d6c33dc5-e223-410f-968b-998200d7538c.png" width="200" alt="Moazam Ali's Dev Card"/>
+</a>
 <img src="https://github.com/akhileshverma92/akhileshverma92/blob/0ead7b89f566d52ad38ec7bbedc185f03d4b2cb7/your_cool_intro%20(1).gif" alt="akhileshverma92" /> 
 
 <h3 align="center">A passionate web developer from India</h3>
